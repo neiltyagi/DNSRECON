@@ -7,3 +7,4 @@ dependencies-COLORAOMA
 USAGE
 --------
 python3 dnsrecon.py
+![FORWARD LOOKUP](https://github.com/neiltyagi/DNSRECON/blob/master/fwd.PNG)
