@@ -1,3 +1,9 @@
 # DNSRECON
 Passive dns reconnaissance tool for automating forward and reverse lookup queries and generating a database
 using Python3.7
+
+dependencies-COLORAOMA
+
+USAGE
+--------
+python3 dnsrecon.py
