@@ -8,3 +8,5 @@ USAGE
 --------
 python3 dnsrecon.py
 ![FORWARD LOOKUP](https://github.com/neiltyagi/DNSRECON/blob/master/fwd.PNG)
+
+![REVERSE LOOKUP](https://github.com/neiltyagi/DNSRECON/blob/master/rev.PNG)
